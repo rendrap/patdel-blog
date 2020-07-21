@@ -1,7 +1,6 @@
 ---
 title: "Featured on a Samsung Blog: My Thoughts on the IoT Fuse Conference, IoT Pain Points and How Minneapolis Fits In…"
 categories:
-- Uncategorized
 tags:
   - innovation
   - Investing

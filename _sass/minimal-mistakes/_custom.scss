@@ -1,0 +1,9 @@
+figure {
+  &.initial_size {
+    margin: 0 0;
+    img {
+      width: unset;
+      max-width: 100%;
+    }
+  }
+}
